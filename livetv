@@ -3,7 +3,9 @@ http://172.16.88.20:18190/starjalsha/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.imgur.com/D6jGMpw.jpg",Star Jalsha HD [IN]
 http://172.16.88.20:18190/starjalsha/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.imgur.com/GOamt6U.jpg",Zee Bangla
-172.16.88.20:18190/zeebangla/index.m3u8
+http://172.16.88.20:18190/zeebangla/index.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.imgur.com/7DKPT1P.jpg?1",Color Bangla FHD
+http://172.16.88.20:18190/colorsbangla/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.imgur.com/RqJGZfm.png",Sony Aath HD [IN]
 http://172.16.88.20:18190/sonyaath/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.imgur.com/hAmFkQB.jpg",Star Jalsha Movies HD
