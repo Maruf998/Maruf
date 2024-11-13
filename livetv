@@ -9,11 +9,11 @@ http://172.16.88.20:18190/colorsbangla/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.imgur.com/RqJGZfm.png",Sony Aath HD [IN]
 http://172.16.88.20:18190/sonyaath/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.imgur.com/hAmFkQB.jpg",Star Jalsha Movies HD
-http://172.16.88.20:18190/jalshamovies/index.m3u8
+http://172.19.178.49:18190/sn-jalshamovies/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.imgur.com/GKZxePQ.png",JAMUNA TV [BD]
-http://172.16.88.20:18190/jamunatv/index.m3u8
+http://172.19.178.49:18190/sn-jamunatv/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png",ATN Bangla
-http://172.16.88.10:18190/atnbangla/index.m3u8
+http://172.19.178.49:18190/sn-atnbangla/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.imgur.com/18m3T6f.jpg",SOMOY TV [BD]
 http://172.19.178.49:18190/sn-somoytv/index.m3u8
 #EXTINF:-1,ATN News
