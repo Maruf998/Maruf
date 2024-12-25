@@ -15,7 +15,7 @@ http://172.19.178.59:18190/sn-jamunatv/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png",ATN Bangla
 http://172.16.88.10:18190/atnbangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.imgur.com/18m3T6f.jpg",SOMOY TV [BD]
-http://172.19.178.49:18190/sn-somoytv/index.m3u8
+http://172.20.2.5:8082/SOMOY-NEWS/tracks-v1a1/mono.m3u8?token=2a8273ca4eb774cba8d0d3c95c77ca4f9351fdba-2e727156e9363b49552af6598097f6e2-1735151991-1735141191
 #EXTINF:-1,ATN News
 http://172.16.88.20:18190/atnnews/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png",Banglavision
