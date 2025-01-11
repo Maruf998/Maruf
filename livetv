@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-id="ts468" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/STJHD_Thumbnail-v3/STJHD_Thumbnail.png" group-title="Bengali;Entertainment",Star Jalsha HD
-http://172.16.88.20:18190/starjalsha/tracks-v1a1/mono.m3u8
+http://10.99.99.99:8080/roarzone/bk/30/tracks-v1a1/mono.m3u8?token=34fb482f544bfb463add0a6098580cb3d52f1b50-6163ca994145b1c69409147cdccaafd0-1736617587-1736595987
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.imgur.com/D6jGMpw.jpg",Star Jalsha HD [IN]
 http://172.19.178.49:18190/sn-starjalsha/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.imgur.com/GOamt6U.jpg",Zee Bangla
