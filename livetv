@@ -1,7 +1,7 @@
 #EXTINF:-1 tvg-id="ts468" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/STJHD_Thumbnail-v3/STJHD_Thumbnail.png" group-title="Bengali;Entertainment",Star Jalsha HD
-http://redforce.live:8082/STAR.JALSHA.HD/tracks-v1a1/mono.m3u8?token=ee59f2e835f95e4fed05b70df826c56d0d34d0ee-ea96db6a37d45b84efe417153c7ace15-1745424742-1745413942
+http://redforce.live:8082/STAR.JALSHA.HD/tracks-v1a1/mono.m3u8?token=316f7ed5785164e88673fb445aad0f142e4a46b9-5e8f43b549bb1e1b5040bc38c4ccc7cf-1745510241-1745499441
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.imgur.com/D6jGMpw.jpg",Star Jalsha HD [IN]
-http://172.19.178.59:18190/starjalsha/index.fmp4.m3u8?token=0482a48e2a349e49867d1f1c42eb591d5e8cde9b-517180e72ca051dacab36df74ff4695f-1745425034-1745414234
+http://redforce.live:8082/STAR.JALSHA.HD/tracks-v1a1/mono.m3u8?token=ee59f2e835f95e4fed05b70df826c56d0d34d0ee-ea96db6a37d45b84efe417153c7ace15-1745424742-17454139424
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.imgur.com/GOamt6U.jpg",Zee Bangla
 http://172.19.178.29:18190/CLOUD-TV-02/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.imgur.com/7DKPT1P.jpg?1",Color Bangla FHD
