@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-id="ts468" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/STJHD_Thumbnail-v3/STJHD_Thumbnail.png" group-title="Bengali;Entertainment",Star Jalsha HD
-http://redforce.live:8082/STAR.JALSHA.HD/tracks-v1a1/mono.m3u8?token=8757f40533bbeffdc79fe6867e7e222892afe95b-94779551e32f9140be764052417e8f4d-1750498904-1750488104
+http://redforce.live:8082/STAR.JALSHA.HD/tracks-v1a1/mono.m3u8?token=39a3609e96baa463440748dc8caca71df2be0faa-e83a30aa2afcce4bf5d5d9fb573196c5-1750844606-1750833806
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.imgur.com/D6jGMpw.jpg",Star Jalsha HD [IN]
 http://172.19.178.59:18190/starjalsha/index.fmp4.m3u8?token=d8d946fa257c2a6d4bd287ffffe4df267f6e71c7-32208ca3f6b0dd2481b6e87fc94fa0f7-1748623737-1748612937
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.imgur.com/GOamt6U.jpg",Zee Bangla
